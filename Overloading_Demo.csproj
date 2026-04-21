@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Overloading_Demo.EmployeeRepository_Main</StartupObject>
+    <StartupObject>Overloading_Demo.Payment_Processor_Main</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

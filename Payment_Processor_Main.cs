@@ -11,9 +11,9 @@ namespace Overloading_Demo
         static void Main(string[] args)
         {
             Payment_Processor pp = new Payment_Processor();
-            pp.ProcessPayment(231045, 150.5m);
-            pp.ProcessPayment(231045, "ABCDE","01/01/2029" );
-            pp.ProcessPayment(10.3m, "Demo@gmail.com", false);
+            //pp.ProcessPayment(101, 500);
+            //pp.ProcessPayment(400, "12345", new DateTime(2026, 08, 01));
+            //pp.ProcessPayment(800, "demo@gmail.com", true);
             Console.ReadLine();
         }
 
